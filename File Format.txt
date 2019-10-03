@@ -1,0 +1,6 @@
+VIN-Car Dataset format
+
+VIN: 0-16
+Date: 18-21
+Company: 23-66
+Country: 67-EndOfLine
